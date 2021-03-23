@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "Organization": "sua-organizacao",
+    "PersonalAccessToken": "seu-pat----------------------------------------",
+    "MinFromDate": "2020-01-01",
+    "DateIncrement": "7",
+    "BackDaysForInspect":  "7",
+    "DbDevOpsDash": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=db-devops_dash;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"
+  }
+}
+
+
